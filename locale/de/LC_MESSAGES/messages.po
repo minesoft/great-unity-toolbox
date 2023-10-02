@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: messages\n"
+"POT-Creation-Date: 2016-06-16 11:20+PDT\n"
+"PO-Revision-Date: 2016-06-16 12:39-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+#: great-unity-toolbox.py:37
+msgid "OK"
+msgstr "OK"
+
+#: great-unity-toolbox.py:61
+msgid "Navigation "
+msgstr "Navigation "
+
+#: great-unity-toolbox.py:74
+msgid "List item"
+msgstr "Listenpunkt"
+
+#: great-unity-toolbox.py:88
+msgid "Unset status "
+msgstr "Unset status "
+
+#: great-unity-toolbox.py:108
+msgid "Tool "
+msgstr "Werkzeug "
+
+#: great-unity-toolbox.py:118
+msgid "Toolbar button"
+msgstr "Schaltfläche in der Symbolleiste"
+
+#: great-unity-toolbox.py:118
+msgid "pressed"
+msgstr "gepresstem"
+
+#: great-unity-toolbox.py:127
+msgid "Template"
+msgstr "Vorlage"
+
+#: great-unity-toolbox.py:155
+msgid "New"
+msgstr "Neu"
+
+#: great-unity-toolbox.py:156
+msgid "Open"
+msgstr "Öffnen"
+
+#: great-unity-toolbox.py:159
+msgid "Exit"
+msgstr "Ausgang"
+
+#: great-unity-toolbox.py:163 great-unity-toolbox.py:170
+msgid "Help"
+msgstr "Hilfe"
+
+#: great-unity-toolbox.py:165 great-unity-toolbox.py:195
+msgid "About"
+msgstr "Von"
+
+#: great-unity-toolbox.py:169
+msgid "File"
+msgstr "Feile"
+
+#: great-unity-toolbox.py:180
+msgid "Help not yet created."
+msgstr "Hilfe noch nicht erstellt."
+
+#: great-unity-toolbox.py:188
+msgid "No description available"
+msgstr "Keine Beschreibung verfügbar"
+
+#: great-unity-toolbox.py:190
+msgid "Author"
+msgstr "Autor"
+
+#: great-unity-toolbox.py:191
+msgid "Email"
+msgstr "Email"
+
+#: great-unity-toolbox.py:192
+msgid "Version"
+msgstr "Version"
+
+#: great-unity-toolbox.py:193
+msgid "GitHub Package"
+msgstr "GitHub -Paket"
+
+#: great-unity-toolbox.py:201
+msgid "New button pressed"
+msgstr "Neu taste gedrückt"
+
+#: great-unity-toolbox.py:201
+msgid "Not yet implemented"
+msgstr "Noch nicht implementiert"
+
+#: great-unity-toolbox.py:208
+msgid "File selected for open: "
+msgstr "Datei für Open ausgewählt:"
+
+#: great-unity-toolbox.py:210
+msgid "No file selected"
+msgstr "Keine Datei ausgewählt"
+
+#: great-unity-toolbox.py:252
+msgid "Uptime"
+msgstr "Betriebszeit"
